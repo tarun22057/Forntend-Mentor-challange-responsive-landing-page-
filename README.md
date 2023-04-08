@@ -9,4 +9,4 @@ I learned to see how the website is structured at different sreen sizes before w
 inorder to style them once.
 Also I learned how to use media queries.
 For future I would start with analysing the structure of the website first before writing the HTML and would try to write clean CSS
-(here my CSS is all over the place).
+(....here my CSS is all over the place....).
